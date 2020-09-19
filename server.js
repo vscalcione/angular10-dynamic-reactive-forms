@@ -7,4 +7,4 @@ app.get('/*', (res, req) => {
     res.sendFile(path.join(__dirname + '/dist/angular10-dynamic-reactive-forms/index.html'));
 })
 
-app.listen(port.env.PORT || 8080);
+app.listen(process.env.PORT || 8080);
