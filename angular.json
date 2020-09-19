@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular10-dynamic-reactive-forms"
+    }
+  },
+  "defaultProject": "angular10-dynamic-reactive-forms",
+  "cli": {
+    "analytics": "157fa658-ef2f-4e3a-8466-71080fb74ae9"
+  }
 }
